@@ -3,6 +3,7 @@
 [![codebeat badge](https://codebeat.co/badges/95a90ccb-3d0e-45d8-8757-1e5a78294d55)](https://codebeat.co/projects/github-com-torosyanv-openloadclient-master)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/19b640d514b200aea84d/test_coverage)](https://codeclimate.com/github/TorosyanV/openloadclient/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/19b640d514b200aea84d/maintainability)](https://codeclimate.com/github/TorosyanV/openloadclient/maintainability)
+[![BCH compliance](https://bettercodehub.com/edge/badge/TorosyanV/openloadclient?branch=master)](https://bettercodehub.com/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Openload java client library (openloadj)
