@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/TorosyanV/openloadclient.svg?branch=master)](https://travis-ci.org/TorosyanV/openloadclient)
+
 # openload java client implementation
 
 
